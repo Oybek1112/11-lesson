@@ -1,0 +1,81 @@
+body 
+{
+text-align: center;
+background-color: darkslategray; border-radius: 20px;
+color: wheat;
+}
+
+img 
+{
+border-radius: 20px
+}
+
+table 
+{
+border-collapse: collapse; width: 1300px;
+}
+
+tr, td, th 
+{
+border: 1px solid;
+padding: 12px; 
+text-align: center;
+}
+
+th 
+{
+background-color: orangered;
+}   
+
+h1 
+{ 
+    margin: 20px 0; 
+}
+
+.card 
+{
+  width: 400px;
+  margin: 20px auto;
+  background: black;
+  border-radius: 10px;
+}
+
+.card img 
+{ 
+    width: 100%; border-radius: 10px 10px 0 0; 
+}
+
+.text 
+{ 
+    padding: 15px; 
+}
+
+h2 
+    {
+     color: orange; margin: 0 0 10px; 
+    }
+
+.card 
+{
+  width: 400px;
+  margin: 20px auto;
+  background: #000000;
+  border-radius: 10px;
+}
+
+.card img 
+{
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+
+.text 
+{
+     padding: 10px; 
+    }
+
+.text h2 
+{
+  color: orange;
+  margin: 0 0 10px;
+}    
